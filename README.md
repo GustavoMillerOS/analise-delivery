@@ -13,9 +13,9 @@ O projeto consistiu em processar e analisar dois conjuntos de dados (`pedidos.cs
 * **Filtros Avançados:** Segmentação de pedidos de alto volume na categoria "Salgados".
 
 ## 📈 Principais Indicadores (KPIs)
-* **Receita Total: R$ 122,652.59
-* **Ticket Médio: R$ 285.24
-* **Top Categoria: Salgados
+* Receita Total: R$ 122,652.59
+* Ticket Médio: R$ 285.24
+* Top Categoria: Salgados
 
 ## 💻 Como visualizar
 Você pode acessar o código completo através do arquivo `.ipynb` neste repositório ou abrir diretamente no Google Colab.
